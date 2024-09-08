@@ -1,0 +1,16 @@
+{
+  "name": "chessnitro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node .",
+    "lookup": "node lookup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
